@@ -8,7 +8,10 @@
   <?php 
     require "header.php"; 
     require_once "includes/class_autoloader.php";
-
+    session_start();
+    if (empty($_SESSION["Member"])) {
+      header("location: login.php");
+    }
     // database initialization
     $dbinit = new InitDB();
     $dbinit->initDbExec();
