@@ -1,7 +1,7 @@
 <footer class="page-footer" style="margin-top: 120px; box-shadow: 0px 0px 2px white; background-color: rgb(17,17,17)">
   <div class="row wide-container">
     <div class="col s3">
-      <h4 class="white-text bold underline">OG Tech PC</h4>
+      <h4 class="white-text bold underline">ARB Tech PC</h4>
       <p class="grey-text text-lighten-4">Your favorite online PC store.</p>
     </div>
     <div class="col s2">
@@ -20,11 +20,11 @@
     <div class="col s2">
       <h5 class="white-text bold">Find Us</h5>
       <p class="bold">
-        Monday to Sunday : <br> 11.00am to 8.00pm
+        Monday to Saturday : <br> 11.00am to 8.00pm <br> Sunday : OFF
       </p>
       <p class="bold">
-        B-2-16, SD2, Dataran SD PJU9, <br>
-        Jalan Dataran SD 2, Bandar <br> Sri Damansara, 52200 KL
+       Tirane Albania, <br>
+        Elbasan Albania <br> 1045-3001
       </p>
     </div>
     <div class="col s2">
